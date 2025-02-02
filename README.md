@@ -16,7 +16,7 @@ Passionate about cybersecurity and ethical hacking, I thrive on learning and sha
 - Expanding my expertise in **frontend web development**.
 
 ## 📢 Let's Connect:
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ismail-khan-b678b0258/)
+- **LinkedIn:** [Ismail Khan](https://www.linkedin.com/in/ismail-khan-b678b0258/)
 - **GitHub:** [Ismailkh356](https://github.com/Ismailkh356)
 
 Always open to collaboration and new opportunities! 🔥
